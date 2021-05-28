@@ -1,9 +1,21 @@
-## Welcome to my Github profile ⚡
+## Hi, I'm Cesar R. :wave:
 
-### I will be brief in my presentation
+### About me...
 
-You can follow me on my social networks
+I have worked as a software developer for more than 9 years, in which I have dedicated time to analysis and web projects.
+My experience is more related to software development (on the web) and data engineering.
 
-https://twitter.com/cesarcalicb
+### Programming languages and technologies
+:woman_technologist: These are some of the technologies that I have used the most
+- Javascript [Angular, VueJs]
+- C# [.NET Core, Asp.NET]
+- PHP
+- Python
+- SQL
+- Docker
 
-https://www.linkedin.com/in/cesarcalicb/ 
+### Links
+
+:link: https://twitter.com/cesarcalicb
+
+:link: https://www.linkedin.com/in/cesarcalicb/ 
