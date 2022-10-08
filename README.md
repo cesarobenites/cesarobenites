@@ -16,6 +16,6 @@ My experience is more related to software development (on the web) and data engi
 
 ### Links
 
-:link: https://twitter.com/cesarcalicb
+:link: https://twitter.com/cesarobenites
 
-:link: https://www.linkedin.com/in/cesarcalicb/ 
+:link: https://www.linkedin.com/in/cesarobenites/ 
